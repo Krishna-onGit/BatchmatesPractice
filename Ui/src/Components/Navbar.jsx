@@ -4,8 +4,8 @@ import { Button } from './ui/button'
 const Navbar = () => {
   return (
     <div>
-      <div className=' p-5 '>
-       <header className='flex items-center justify-between text-white'>
+      <div className=' p-4 '>
+       <header className='flex items-center justify-between text-white mx-16'>
         <div className='flex items-center space-x-3'>
           <div className='w-12 h-12 bg-black rounded-lg flex items-center justify-center border border-gray-800 overflow-hidden'>
             <img src="/Logo.png" alt=""  className='h-24 w-24 object-contain'/>

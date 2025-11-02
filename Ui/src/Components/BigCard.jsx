@@ -2,7 +2,7 @@ import React from "react";
 
 const BigCard = () => {
   return (
-    <div className="pt-12 pb-24 px-6 relative z-10">
+    <div className="   relative z-10">
       <div className="max-w-6xl mx-auto px-4">
         <div className="bg-gray-900/50 rounded-3xl border border-gray-800 overflow-hidden ">
           <div className=" grid lg:grid-cols-2 gap-12 items-center py-4 px-4">

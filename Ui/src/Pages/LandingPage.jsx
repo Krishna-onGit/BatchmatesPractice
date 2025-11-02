@@ -26,12 +26,12 @@ const LandingPage = () => {
 
       {/* Page content — above the background and overlay */}
       <div className="relative z-30 ">
-        <header className="sticky top-0 z-40 w-full px-[25px] pt-5 backdrop-blur-md bg-black/30">
+        <header className="sticky top-0 z-40 w-full px-[25px] backdrop-blur-md bg-black/30">
           <Navbar />
         </header>
 
         <main>
-          <section className="z-10 w-full pb-10 px-6">
+          <section className="z-10 w-full">
             <Herosection />
           </section>
 
